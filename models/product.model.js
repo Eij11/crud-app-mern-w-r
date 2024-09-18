@@ -32,5 +32,6 @@ const ProductSchema = mongoose.Schema(
 // This line creates a Mongoose model named “Product” based on the ProductSchema. A model is a class with which we construct documents. In this case, each document will be a product with the defined schema.
 const Product = mongoose.model("Product", ProductSchema);
 module.exports = Product;
+zz;
 
 //we're going to use this to create products in the db

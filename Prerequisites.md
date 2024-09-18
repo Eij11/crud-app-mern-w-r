@@ -107,9 +107,9 @@ For Windows:
 
 echo "# crud-app-mern-w-r" >> README.md
 
-git init
+git init - initiliazing
 
-git add README.md
+git add . - adding everything
 
 git commit -m "first commit"
 
@@ -126,3 +126,5 @@ git remote add origin https://github.com/Eij11/crud-app-mern-w-r.git
 git branch -M main
 
 git push -u origin main
+
+testttt git vscode
