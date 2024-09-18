@@ -127,4 +127,12 @@ git branch -M main
 
 git push -u origin main
 
-testttt git vscode
+### `saving when you already have a repo`
+
+git add .
+
+git commit -m "your descriptive commit message"
+
+git push
+
+git log - You can use the following Git command to see a list of your commits and their messages
