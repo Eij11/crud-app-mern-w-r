@@ -129,7 +129,11 @@ git push -u origin main
 
 ### `saving when you already have a repo`
 
-git add .
+git add . - dot means all
+
+git add Prerequisites.md - specifies 1 file you want to commit
+
+git add index.js app.js styles.css - multiple changels
 
 git commit -m "your descriptive commit message"
 
